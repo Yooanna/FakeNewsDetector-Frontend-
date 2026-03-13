@@ -1,12 +1,14 @@
-# Fake News Detector - Frontend
+## 🎨 Design Files
 
-## Team Member
-ANGGI YEAM - Frontend Developer
+This project was designed first in Figma. You can view the complete UI/UX design here:
 
-## How to Run
-1. Open folder in VS Code
-2. Install Live Server extension
-3. Right-click index.html → Open with Live Server
+*   **Figma Design Link:** [Fake News Detector - Hackathon 2026](https://www.figma.com/design/gyWgAuSqpvi7J5IEHbV42E/Fake-News-Detector---Hackathon-2026?node-id=0-1&t=RFBV46ChQ1kiBlVP-1)
 
-## API Connection
-Uses API from DEY PORNA RANI at: https://grovelingly-treelined-euclid.ngrok-free.dev/predict
+### Design Screenshots
+All design screens are available in the [`/design`](/design) folder:
+*   🏠 Home Page
+*   ⏳ Loading State
+*   🔴 FAKE News Result
+*   🟢 REAL News Result
+*   ⛓️ Blockchain Section
+*   📱 Mobile Responsive Version
